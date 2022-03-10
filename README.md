@@ -13,3 +13,4 @@ The [Alpakka FTP library](https://doc.akka.io/docs/alpakka/current/ftp.html) has
 ### Sources
 - [Alpakka FTP library](https://doc.akka.io/docs/alpakka/current/ftp.html).
 - [Baeldung: Transferring a File Through SFTP in Java](https://www.baeldung.com/java-file-sftp).
+- [StackOverflow question on finding a library for Scala (with simple sshj example)](https://stackoverflow.com/questions/66241593/how-to-read-a-file-via-sftp-in-scala).
